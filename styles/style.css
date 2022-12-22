@@ -6,7 +6,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
@@ -289,7 +289,7 @@
 }
 
 .kaufman__triange {
-  background-image: url('../images/kaufman-triangle.svg');
+  background-image: url("../images/kaufman-triangle.svg");
   width: 877px;
   height: 877px;
   position: absolute;
